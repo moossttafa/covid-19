@@ -42,6 +42,13 @@
     .contacts .buttons button{
         
     }
+    .marg{
+        margin-top: 70px;
+
+    }
+    .margin{
+        margin: 80px 0;
+    }
     /*xsm*/
  }
  @media (max-width :320px){
@@ -49,5 +56,6 @@
     .about .countries .row .the_col .item h2{
         font-size: 25px;
     }
+    
     /*xsm*/
  }
